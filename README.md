@@ -14,7 +14,7 @@
      the code is able to use numeric methods to calculate interpolation in diffrent methods.
    <hr>
    
-   In this project we demonstrate our knowledge in:
+   In this project we demonstrate our knowledge in using:
    * **1.Linear Method**
    * **2.Polynomial Method**
    * **3.Lagrange Method**
