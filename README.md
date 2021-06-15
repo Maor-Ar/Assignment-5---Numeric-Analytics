@@ -11,7 +11,7 @@
 
 
      This code is part of a project for Numeric Analitics Course.
-     the code is able to use numeric methods to solve matrices.
+     the code is able to use numeric methods to calculate interpolation in diffrent methods.
    <hr>
    
    In this project we demonstrate our knowledge in:
